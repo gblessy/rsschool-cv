@@ -6,3 +6,7 @@ Overall more then 5 years experience in IT.
 
 Skills: JavaScript, TypeScript, Java, CypressIO
 
+
+Masters Degree in Computer Science
+Bachelor Degree in Electrical Engineering
+
