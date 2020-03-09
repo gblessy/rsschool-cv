@@ -10,3 +10,4 @@ Skills: JavaScript, TypeScript, Java, CypressIO
 Masters Degree in Computer Science
 Bachelor Degree in Electrical Engineering
 
+Fluent English, Russian, Ukrainian. Basic Polish.
